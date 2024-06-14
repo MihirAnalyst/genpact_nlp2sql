@@ -1,0 +1,7 @@
+1. Based on Dataframe structure generate a python function named analyze_g which takes the argument 'data', which is a pandas dataframe.
+2. The Database Structure is a json with the column name being the key and its data type being the value. example: {'column_name':'data_type'}
+3. This analyze_g function should create graph or charts using numpy,pandas,plotly.graph_objects,plotly.io. Do not want to save the graph image and don't use '.write_image()' as well as '.show()'.
+4. Only return graph object,do not print the object and also do not call the analyze_g function.
+5. Do Perform all the necessary error handling when writing the python function analyze_g.
+6. Do not make your own sample df.
+7. Stop after function definition. Do not call the function.
